@@ -1,8 +1,11 @@
 
 [![Banner](/resources/banner3.png)](https://econometrics.club/)
 
+<div align="center">
+
 # Hi👋 I'm Liss Hall | HAO Xinya | 郝新亚 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=LissHall.README&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" /> 
 
+</div>
 
 <div style="width:100%;text-align:center;">
 <p>
