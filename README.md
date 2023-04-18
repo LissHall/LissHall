@@ -25,7 +25,7 @@
 </div>
 <div align="center">
     
-<div style="color:#6b3296;text-align:center;">Welcome to my blog </div>
+***Welcome to my [blog](https://econometrics.club/)***
     
 [![My Blog](/resources/logo.svg)](https://econometrics.club/)
 
