@@ -24,7 +24,9 @@
 </p>
 </div>
 <div align="center">
+    
 <div style="color:#6b3296;text-align:center;">Welcome to my blog </div>
+    
 [![My Blog](/resources/logo.svg)](https://econometrics.club/)
 
 [![banner2](/resources/%E8%B5%9B%E5%8D%9A%E8%A1%97%E5%8C%BA.jpg)](https://econometrics.club/)
