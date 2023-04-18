@@ -1,3 +1,5 @@
+
+![Banner](/resources/banner3.png)
 ### Hi there 👋
 
 <!--
