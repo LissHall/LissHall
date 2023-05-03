@@ -1,5 +1,5 @@
 
-[![Banner](/resources/banner3.png)](https://econometrics.club/)
+[![Banner](/resources/ciber_street.jpg)](https://econometrics.club/)
 
 <div align="center">
 
