@@ -18,7 +18,7 @@
 <br />
     <img alt="Python" src="https://img.shields.io/badge/-Python-4283cd?style=flat-square&logo=python&logoColor=white" />
     <img alt="Stata" src="https://img.shields.io/badge/-Stata-2d619b?style=flat-square&logo=&logoColor=while" />
-    <img alt="R" src="https://img.shields.io/badge/-Stata-88a8d3?style=flat-square&logo=r&logoColor=while" />
+    <img alt="R" src="https://img.shields.io/badge/-R-88a8d3?style=flat-square&logo=r&logoColor=while" />
    <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-df8b4c?style=flat-square&logo=matlab&logoColor=orange" />
    
 </p>
