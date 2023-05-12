@@ -15,7 +15,6 @@
     <img alt="Hexo" src="https://img.shields.io/badge/-Hexo-4283cd?style=flat-square&logo=hexo&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-1d1c1c?style=flat-square&logo=github&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-1f1f1f?style=flat-square&logo=vercel&logoColor=white" />
-<br />
     <img alt="Python" src="https://img.shields.io/badge/-Python-4283cd?style=flat-square&logo=python&logoColor=white" />
     <img alt="Stata" src="https://img.shields.io/badge/-Stata-2d619b?style=flat-square&logo=&logoColor=while" />
     <img alt="R" src="https://img.shields.io/badge/-R-88a8d3?style=flat-square&logo=r&logoColor=while" />
