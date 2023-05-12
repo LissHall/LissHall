@@ -29,7 +29,9 @@
     
 [![My Blog](/resources/logo.svg)](https://econometrics.club/)
 
+<!--
 [![banner2](/resources/ciber_street.jpg)](https://econometrics.club/)
+-->
 
 </div>
 
