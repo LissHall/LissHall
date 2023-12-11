@@ -22,19 +22,15 @@
    
 </p>
 </div>
+
 <div align="center">
-    
 ***Welcome to my [blog](https://econometrics.club/)***
-
-
 </div>
 
-----
 <div align="center">
 <!--
 [<img alt="LissHall's Github chart" src="https://ghchart.rshah.org/LissHall" />](https://econometrics.club/)
 -->
-
 [<img alt="LissHall's github stats" src="https://github-readme-stats.vercel.app/api?username=LissHall&show_icons=true&title_color=3a95ff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />](https://github.com/LissHall)
 
 </div>
