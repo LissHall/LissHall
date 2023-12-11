@@ -25,12 +25,7 @@
 <div align="center">
     
 ***Welcome to my [blog](https://econometrics.club/)***
-    
-[![My Blog](/resources/logo.svg)](https://econometrics.club/)
 
-<!--
-[![banner2](/resources/ciber_street.jpg)](https://econometrics.club/)
--->
 
 </div>
 
@@ -44,21 +39,3 @@
 
 </div>
 
-
-<!--
-**LissHall/LissHall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LissHall&layout=compact&title_color=3a95ff&text_color=9f9f9f&&bg_color=151515" />
-
--->
