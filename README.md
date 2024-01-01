@@ -1,5 +1,5 @@
 
-[![Banner](/resources/banner3.png)](https://econometrics.club/)
+[![Banner](/resources/banner3.png)](https://github.com/LissHall)
 
 <div align="center">
 
